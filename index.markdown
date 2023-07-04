@@ -12,8 +12,7 @@ Hello and welcome to my Github page! I hope you are having a pleasant day :)
 I'm a researcher focused on solving challenges in various domains from
 earth to space using satellite data and machine learning. I am motivated by
 the lighting fast advancements in both space technologies and AI and aim to
-utilize their immense potential for the benefit of society, especially the
-underprivileged. 
+utilize their immense potential for the benefit of society. 
 
 To this end, I am interested in applications of AI and space intelligence 
 for sustainable use of space, debris management and space situational awareness, 
