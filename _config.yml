@@ -21,8 +21,7 @@
 title: Komal Gupta
 email: komalguptag32@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a researcher with background in physics and machine learning,
-  interested in applications of AI for human good.
+  Data science researcher interested in applications of AI for human good
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://kgupta359.github.io # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
