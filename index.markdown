@@ -7,8 +7,7 @@ layout: page
 <img style="float: right;" src="/assets/profile_photo.jpg" width="200" height="200">
 Hello and welcome to my Github page! I hope you are having a pleasant day :)
 
-### About me
-
+#### Research interests
 I'm a researcher focused on solving challenges in various domains from
 earth to space using satellite data and machine learning. I am motivated by
 the lighting fast advancements in both space technologies and AI and aim to
@@ -17,6 +16,7 @@ interested in applications of AI and space intelligence for sustainable use
 of space, debris management and space situational awareness, 
 as well as for earth observation, disaster management and tackling climate change.
 
+#### Background
 I have a masters degree in physics and a bachelors degree in electronics 
 engineering, both from BITS Pilani, India. My MSc thesis was completed at UNSW
 Canberra Space; this is also where I was first introduced to the countless possibilities 
